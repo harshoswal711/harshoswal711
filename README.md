@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Cloud Based Botnet**
 
-- 👨‍💻 All of my projects are available at [https://projectiondevelopers.tech/our-works/](https://projectiondevelopers.tech/our-works/)
+- 👨‍💻 My firm [https://projectiondevelopers.com](https://projectiondevelopers.com)
 
-- 📫 How to reach me **contact@harshoswal.tech**
+- 📫 How to reach me **harsh@projectiondevelopers.com**
 
 - 📄 Know about my experiences [harsho.web.app](harsho.web.app)
 
